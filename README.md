@@ -63,4 +63,4 @@ Vue.js e Bootstrap.
 
 ## Imagem
 
-[Face do Piccolo](piccolo.jpg)
+![Face do Piccolo](piccolo.jpg)
