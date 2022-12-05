@@ -61,3 +61,6 @@ Vue.js e Bootstrap.
 [Meu Github](https://github.com/matheusGonks)  
 [Meu Linkedin](https://www.linkedin.com/in/matheus-gon%C3%A7alves-a564a9231/)
 
+## Imagem
+
+[Face do Piccolo](piccolo.jpg)
